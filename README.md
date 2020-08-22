@@ -19,3 +19,8 @@ Command line output when analysis environment is detected:
 ![](/imgs/img3.png)
 
 The reason for all the errors is due to the malware already being killed off & overwritten.
+
+# Cross-Compiling
+
+When cross-compiling using mingw, you may get an error such as:
+
