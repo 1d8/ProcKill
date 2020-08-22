@@ -22,6 +22,6 @@ The reason for all the errors is due to the malware already being killed off & o
 
 # Cross-Compiling
 
-When cross-compiling using mingw, you may get an error such as the one below, simply ignore it. It does not affect the way the code runs at all:
+When cross-compiling using mingw, you may get an warning such as the one below, simply ignore it. It does not affect the way the code runs at all:
 
 ![](/imgs/img4.png)
